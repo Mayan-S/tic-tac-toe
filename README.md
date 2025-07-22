@@ -2,6 +2,8 @@
 
 A simple but unbeatable **Tic-Tac-Toe** game built using **Qt Creator** and **C++**.  
 
+Download the 'release.zip' file to play the game yourself!
+
 <br /> 
 
 **Program In Use:**
